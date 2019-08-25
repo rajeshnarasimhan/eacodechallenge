@@ -10,6 +10,9 @@ a. Clone the project
 
 b. Use Maven to build and run project
 
+Assumption:
+----------
+Empty or NULL values from response of http://eacodingtest.digital.energyaustralia.com.au/api/v1/festivals is considered for displaying output and not ignored while processing.
 
 Sample output after running project:
 -----------------------------------
